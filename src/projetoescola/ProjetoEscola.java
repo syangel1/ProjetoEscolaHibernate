@@ -16,8 +16,8 @@ public class ProjetoEscola {
 
         Cadastros cadAluno = new Cadastros();
         cadAluno.cadastroAlunos();
-        Cadastros cadProf = new Cadastros();
-        cadProf.cadastroProfessor();
+       // Cadastros cadProf = new Cadastros();
+        //cadProf.cadastroProfessor();
         
         
         // busca a configuração do arquivo hibernate 
